@@ -1,4 +1,9 @@
 {
+  "cats": [
+    {"id":1,"name":"sad cat","url":"https://www.catster.com/wp-content/uploads/2018/05/A-gray-cat-crying-looking-upset.jpg"},
+    {"id":2,"name":"tiny kitten","url":"http://origin-www.readersdigest.ca/wp-content/uploads/sites/14/2011/01/4-ways-cheer-up-depressed-cat.jpg"},
+    {"id":3,"name":"belly","url":"http://sites.psu.edu/siowfa15/wp-content/uploads/sites/29639/2015/10/cat.jpg"},
+  ],
   "posts": [
     {
       "id": 1,
