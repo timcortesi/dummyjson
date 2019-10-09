@@ -1,0 +1,1490 @@
+[
+{
+  "value": "AGC Agency Fees",
+  "label": "AGENCY – System generated charges for facilities and administration for agency awards."
+},
+{
+  "value": "AGC Manual Agency Fees",
+  "label": "AGENCY – Manual charges for facilities and administration of agency awards. Manual charges are entered though a usage batch."
+},
+{
+  "value": "AGC Override Manual Agency Fees",
+  "label": "AGENCY – Manual charges for facilities and administration of agency awards. Manual charges are entered though a usage batch."
+},
+{
+  "value": "",
+  "label": "Charges to this expenditure type will override the nightly indirect cost calculation."
+},
+{
+  "value": "ALT Alteration and Renovation",
+  "label": "ALTERATION – Work required for changing the interior arrangement or other physical characteristics of an existing facility or structure or installed equipment so that it may be more effectively utilized or adapted to a changed use as a result of requirements of a project."
+},
+{
+  "value": "ALT Unallocated Alt and Renov",
+  "label": "ALTERATION – The amount budgeted within the major Alterations and Renovations that is not allocated to a minor category."
+},
+{
+  "value": "BUD Undistributed Budget",
+  "label": "BUDGET -Budgets that are undistributed."
+},
+{
+  "value": "CFR Conf Registration Fees",
+  "label": "CONFERENCE -Conference registration fees."
+},
+{
+  "value": "CFR Food Services",
+  "label": "CONFERENCE -Conference or training food and beverage services."
+},
+{
+  "value": "CFR Meeting Expenses",
+  "label": "CONFERENCE -Conference or training meetings."
+},
+{
+  "value": "CFR Membership Fees",
+  "label": "CONFERENCE -Membership fees associated with conferences or training."
+},
+{
+  "value": "CFR Staff Training Fees",
+  "label": "CONFERENCE – Staff training fees associated with conferences or training."
+},
+{
+  "value": "CFR Subscription Services",
+  "label": "CONFERENCE -Conference- ortraining-related subscription fees."
+},
+{
+  "value": "CFR Unallowable Conf Training",
+  "label": "CONFERENCE – Costs relating toconferences or training that the sponsor will not pay for or allow."
+},
+{
+  "value": "CFR Unalloc Conf and Training",
+  "label": "CONFERENCE – Amount budgeted underthe major category of Conferences and Training but is not allocated to aminor category."
+},
+{
+  "value": "CSO Cost Share Supplies",
+  "label": "COST SHARING (OTPS) – Supply costscommitted by SUNY."
+},
+{
+  "value": "CSO Cost Share Other",
+  "label": "COST SHARING (OTPS) – Other costscommitted by SUNY."
+},
+{
+  "value": "CSO Cost Share Unrec F and A",
+  "label": "COST SHARING (OTPS) – Unrecoveredfacilities and administrative costs committed by SUNY."
+},
+{
+  "value": "",
+  "label": "This expenditure type is excludedfrom the Long Form F & A rate development process."
+},
+{
+  "value": "CSO Cost Share F and A",
+  "label": "COST SHARING (OTPS) – Facilitiesand administrative costs committed by SUNY."
+},
+{
+  "value": "",
+  "label": "This expenditure type is excluded from the Long Form F & A rate development process."
+},
+{
+  "value": "CSO Cost Share 3rd Prty InKind",
+  "label": "COST SHARING (OTPS) – A noncashcontribution for which a cash value can be determined (e.g., volunteerservices, third party salary (not RFor SUNY Salary) and equipment from a third party, supplies, and realproperty)."
+},
+{
+  "value": "",
+  "label": "This expenditure type is excluded from the Long Form F & A rate development process."
+},
+{
+  "value": "CSO Cost Share Travel",
+  "label": "COST SHARING (OTPS) – Travel costscommitted by SUNY."
+},
+{
+  "value": "CSO Cost Share Tuition and Fee",
+  "label": "COST SHARING (OTPS) – SUNY's costfor tuition and fees related to educational assistance."
+},
+{
+  "value": "",
+  "label": "This expenditure type is excludedfrom the Long Form F & A rate development process."
+},
+{
+  "value": "CSO Cost Share Volunteers",
+  "label": "COST SHARING (OTPS) – Unpaidservice provided by SUNY."
+},
+{
+  "value": "CSO Cost Share Equipment",
+  "label": "COST SHARING (OTPS) – Equipmentcosts committed to by SUNY."
+},
+{
+  "value": "",
+  "label": "This expenditure type is excludedfrom the Long Form F & A rate development process."
+},
+{
+  "value": "CSO Misc",
+  "label": "COST SHARING (OTPS) -Miscellaneous expenses committed by SUNY."
+},
+{
+  "value": "CSO Override Cost Shar F and A",
+  "label": "COST SHARING (OTPS) – Facilitiesand administrative costs committed by SUNY."
+},
+{
+  "value": "",
+  "label": "Charges to this expenditure typewill override the nightly indirect cost calculation."
+},
+{
+  "value": "",
+  "label": "This expenditure type is excludedfrom the Long Form F & A rate development process."
+},
+{
+  "value": "CSO Subawards above 25000",
+  "label": "COST SHARING (OTPS) – Cost sharingof subawards above $25,000."
+},
+{
+  "value": "",
+  "label": "This expenditure type is excludedfrom the Long Form F & A rate development process."
+},
+{
+  "value": "CSO Subawards first 25000",
+  "label": "COST SHARING (OTPS) – Cost sharingof subawards up to and including $25,000."
+},
+{
+  "value": "CSS Cost Share Sal Regular",
+  "label": "COST SHARING – Unpaid personalservice of a regular salaried SUNY employee who are not compensated directlyby award funds."
+},
+{
+  "value": "CSS Cost Share Sal Grad",
+  "label": "COST SHARING – Unpaid personalservice of a SUNY graduate student who is not compensated directly by awardfunds."
+},
+{
+  "value": "CSS Cost Share Fringe Benefits",
+  "label": "COST SHARING – Fringe benefitcosts committed by SUNY."
+},
+{
+  "value": "CSS Cost Share Sal Undergrad",
+  "label": "COST SHARING – Unpaid personalservice of a SUNY undergraduate student who is not compensated directly byaward funds."
+},
+{
+  "value": "CSS Cost Share Sal Summer",
+  "label": "COST SHARING – Unpaid personalservice of a SUNY summer employee who is not compensated directly by awardfunds."
+},
+{
+  "value": "EQP Commun Equip",
+  "label": "EQUIPMENT – Communicationequipment. Cost must be $5,000 or more."
+},
+{
+  "value": "EQP CommunEquip Lease Purch",
+  "label": "EQUIPMENT – Communicationsequipment that is under lease purchase. Cost must be $5,000 or more."
+},
+{
+  "value": "EQP Furniture",
+  "label": "EQUIPMENT – Equipment classifiedas furniture. Cost must be $5,000 or more."
+},
+{
+  "value": "EQP Furniture Lease Purchase",
+  "label": "EQUIPMENT – Furniture under leasepurchase. Cost must be $5,000 or more."
+},
+{
+  "value": "EQP Heavy Equip",
+  "label": "EQUIPMENT – Heavy equipment beingpurchased. Cost must be $5,000 or more."
+},
+{
+  "value": "EQP Heavy Equip Lease Purch",
+  "label": "EQUIPMENT – Heavy equipment underlease purchase. Cost must be $5,000 or more."
+},
+{
+  "value": "EQP IT Equip Other",
+  "label": "EQUIPMENT – Information technologyequipment that is not classified in another minor category. Cost must be $5,000or more."
+},
+{
+  "value": "EQP IT Equip Other Lease Purch",
+  "label": "EQUIPMENT – Information technologyequipment under lease purchase that is not classified in another minorcategory. Cost must be $5,000 or more."
+},
+{
+  "value": "EQP IT Printers",
+  "label": "EQUIPMENT – Information technologyprinters being purchased. Cost must be $5,000 or more."
+},
+{
+  "value": "EQP IT Printers Lease Purch",
+  "label": "EQUIPMENT – Information technologyprinters under lease purchase. Cost must be $5,000 or more."
+},
+{
+  "value": "EQP Library Audio Materials",
+  "label": "EQUIPMENT – Any library audiomaterials. Cost must be $5,000 or more."
+},
+{
+  "value": "EQP Library Books",
+  "label": "EQUIPMENT – Library books. Costmust be $5,000 or more."
+},
+{
+  "value": "EQP Library Doc Deliv Interlib",
+  "label": "EQUIPMENT – Equipment used forinterlibrary document delivery. Cost must be $5,000 or more."
+},
+{
+  "value": "EQP Library Elect Resources",
+  "label": "EQUIPMENT – Electronic libraryequipment resources. Cost must be $5,000 or more."
+},
+{
+  "value": "EQP Library Hardware",
+  "label": "EQUIPMENT -Library hardware. Costmust be $5,000 or more."
+},
+{
+  "value": "EQP Library Serials",
+  "label": "EQUIPMENT – Library periodicals orjournals. Cost must be $5,000 or more."
+},
+{
+  "value": "EQP Library Software",
+  "label": "EQUIPMENT – Library software. Costmust be $5,000 or more."
+},
+{
+  "value": "EQP Medical Equip",
+  "label": "EQUIPMENT – Medical equipmentpurchased. Cost must be $5,000 or more."
+},
+{
+  "value": "EQP Medical Equip Lease Purch",
+  "label": "EQUIPMENT – Medical equipmentunder lease purchase. Cost must be $5,000 or more."
+},
+{
+  "value": "EQP Office Equip",
+  "label": "EQUIPMENT – Office equipment. Costmust be $5,000 or more."
+},
+{
+  "value": "EQP Office Equip Lease Purch",
+  "label": "EQUIPMENT – Office equipment thatis under lease purchase. Cost must be $5,000 or more."
+},
+{
+  "value": "EQP Other Equip",
+  "label": "EQUIPMENT – Any other equipmentwith a cost of $5,000 or more."
+},
+{
+  "value": "EQP Other Equip Lease Purch",
+  "label": "EQUIPMENT – Any office equipmentthat is under lease purchase with a cost of $5,000 or more."
+},
+{
+  "value": "EQP PCs",
+  "label": "EQUIPMENT – Personal computerspurchased and cost $5,000 or more."
+},
+{
+  "value": "EQP PCs Lease Purch",
+  "label": "EQUIPMENT – Personal computersunder lease purchase. Cost must be $5,000 or more."
+},
+{
+  "value": "EQP Print Equip",
+  "label": "EQUIPMENT – Printing equipment.Cost must be $5,000 or more."
+},
+{
+  "value": "EQP Print Equip Lease Purch",
+  "label": "EQUIPMENT – Printing equipmentunder lease purchase. Cost must be $5,000 or more."
+},
+{
+  "value": "EQP Research Equip",
+  "label": "EQUIPMENT – Equipment usable onlyfor research, medical, scientific, or other technical project activities.Cost must be $5,000 or more."
+},
+{
+  "value": "EQP Sponsor Defined Equip",
+  "label": "EQUIPMENT – Equipment defined bythe sponsor, required for the project, and cost must be less than $5,000."
+},
+{
+  "value": "EQP Unallocated Equipment",
+  "label": "EQUIPMENT – Equipment budgetedunder major equipment but not allocated under a minor category. Cost must be$5,000 or more."
+},
+{
+  "value": "EQP Unallowable Equip",
+  "label": "EQUIPMENT – Equipment purchasesthat the sponsor will not pay for or allow. Cost must be $5,000 or more."
+},
+{
+  "value": "EQP Vehicles",
+  "label": "EQUIPMENT – Vehicles purchasedthat are project-related. Cost must be $5,000 or more."
+},
+{
+  "value": "EQP Vehicles Lease Purch",
+  "label": "EQUIPMENT – Vehicles under leasepurchase that are project-related. Cost must be $5,000 or more."
+},
+{
+  "value": "FAC F and A Costs",
+  "label": "FACILITIES AND ADMINISTRATIONCOSTS – Facilities and administration costs (i.e., indirect costs)."
+},
+{
+  "value": "FAC Manual F and A Costs",
+  "label": "FACILITIES AND ADMINISTRATIONCOSTS – Manual charges for facilities and administration costs (i.e.,indirect costs)."
+},
+{
+  "value": "FAC Override Manual F and A",
+  "label": "FACILITIES AND ADMINISTRATIONCOSTS – Manual charges for facilities and administration costs (i.e.,indirect costs)."
+},
+{
+  "value": "",
+  "label": "Charges to this expenditure typeare not included in the nightly indirect cost base calculation."
+},
+{
+  "value": "FACOverride SUNYSUB F and A",
+  "label": "FACILITIES AND ADMINISTRATION – Manual F& A override to be used only for a Lead Location Awards with Subaward Activity at another SUNY Location."
+},
+{
+  "value": "",
+  "label": "Charges to this expenditure typeare not included in the nightly indirect cost base calculation."
+},
+{
+  "value": "FBG Fringe Benefits Grad",
+  "label": "FRINGE BENEFITS (GRADUATE – Fringe benefit expenses for a graduate student."
+},
+{
+  "value": "FBG FB Grad Unallowable",
+  "label": "FRINGE BENEFITS (GRADUATE – Graduate student fringe benefit expenses that the sponsor will not pay for orallow."
+},
+{
+  "value": "FBG Unallocated FB Grad",
+  "label": "FRINGE BENEFITS (GRADUATE – Graduate student fringe benefit expenses not allocated under a minorcategory."
+},
+{
+  "value": "FBG FB Manual Grad",
+  "label": "FRINGE BENEFITS (GRADUATE) – Manually calculated graduate student fringe benefit costs."
+},
+{
+  "value": "FBI Fringe Benefits IFR",
+  "label": "FRINGE BENEFITS (IFR) – Costsrelating to fringe benefits for income fund reimbursable expenses."
+},
+{
+  "value": "FBI FB IFR Payments",
+  "label": "FRINGE BENEFITS (IFR) – Incomefund reimbursable expenses paid to affiliated institutions (i.e., nonSUNYinstitutions)."
+},
+{
+  "value": "FBI FB Manual IFR",
+  "label": "FRINGE BENEFITS (IFR) – Manualcosts relating to fringe benefits for income fund reimbursable expenses."
+},
+{
+  "value": "FBI Unallocated FB IFR",
+  "label": "FRINGE BENEFITS (IFR) – Budgetsrelating to fringe benefits for income fund reimbursable expenses but notallocated under a minor category."
+},
+{
+  "value": "FBR Fringe Benefits Regular",
+  "label": "FRINGE BENEFITS (REGULAR) – Costsrelating to fringe benefits for regular employees."
+},
+{
+  "value": "FBR FB Manual Regular",
+  "label": "FRINGE BENEFITS (REGULAR) -Manually calculated costs relating to fringe benefits for regular employees."
+},
+{
+  "value": "FBR Unallocated FB Regular",
+  "label": "FRINGE BENEFITS (REGULAR) -Regular employee fringe benefit budgets not allocated under a minor category."
+},
+{
+  "value": "FBS Fringe Benefits Summer",
+  "label": "FRINGE BENEFITS (SUMMER) – Fringebenefit costs for summer only employees."
+},
+{
+  "value": "FBS Non RF FICA",
+  "label": "FRINGE BENEFITS (SUMMER) Used for Non RF employee processing – FICA expense to grant."
+},
+{
+  "value": "FBS Non RF Medicare",
+  "label": "FRINGE BENEFITS (SUMMER) Used for Non RF employee processing – Medicare expense to grant."
+},
+{
+  "value": "FBS Unallocated FB Summer",
+  "label": "FRINGE BENEFITS (SUMMER) – Summeronly employee fringe benefit budgets not allocated under a minor category."
+},
+{
+  "value": "FBS FB Manual Summer",
+  "label": "FRINGE BENEFITS (SUMMER) -Manually calculated costs relating to fringe benefits for summer onlyemployees."
+},
+{
+  "value": "FBU Fringe Benefits Undergrad",
+  "label": "FRINGE BENEFITS (UNDERGRADUATE) -Fringe benefit costs for undergraduate student employees."
+},
+{
+  "value": "FBU FB Manual Undergrad",
+  "label": "FRINGE BENEFITS (UNDERGRADUATE) -Manually calculated costs relating to fringe benefits for undergraduatestudents."
+},
+{
+  "value": "FBU Unallocated FB Undergrad",
+  "label": "FRINGE BENEFITS (UNDERGRADUATE) -Undergraduate student employee fringe benefit expenses not allocated under aminor category."
+},
+{
+  "value": "FPS Americorp Regular",
+  "label": "FELLOWS & PARTICIPANT SUPPORT– Compensation to regular Americorp volunteers."
+},
+{
+  "value": "FPS Americorp Student",
+  "label": "FELLOWS & PARTICIPANT SUPPORT– Compensation to Americorp volunteers who are in a student status."
+},
+{
+  "value": "FPS Fellow Insurance",
+  "label": "FELLOWS & PARTICIPANT SUPPORT– Expenditures for health care coverage for fellows and, if applicable,.their dependents"
+},
+{
+  "value": "FPS Fellowships",
+  "label": "FELLOWS & PARTICIPANT SUPPORT– Fellowship stipend payments."
+},
+{
+  "value": "FPS FICA Expense",
+  "label": "FELLOWS & PARTICIPANT SUPPORT– FICA costs for fellows."
+},
+{
+  "value": "FPS IFR Stipends",
+  "label": "FELLOWS & PARTICIPANT SUPPORT– Fellowship stipends relating to income fund reimbursable expenses."
+},
+{
+  "value": "FPS Medicare Expense",
+  "label": "FELLOWS & PARTICIPANT SUPPORT– Medicare costs for fellows."
+},
+{
+  "value": "FPS Participant Depend Allow",
+  "label": "FELLOWS & PARTICIPANT SUPPORT– Participant dependent allowances related to the project."
+},
+{
+  "value": "FPS Participant Support",
+  "label": "FELLOWS & PARTICIPANT SUPPORT– Costs associated with fellow and participant support."
+},
+{
+  "value": "FPS Participant Support Hourly",
+  "label": "FELLOWS & PARTICIPANT SUPPORT– Costs associated with hourly participant support."
+},
+{
+  "value": "FPS Participant Travel",
+  "label": "FELLOWS & PARTICIPANT SUPPORT– Costs for fellow and participant travel."
+},
+{
+  "value": "FPS Unalloc Fellows Part Sup",
+  "label": "FELLOWS & PARTICIPANT SUPPORT– Unallocated costs associated with fellow and participant support."
+},
+{
+  "value": "GNS Accessory Instruction",
+  "label": "GENERAL SERVICES – Costs relatedto accessory instruction."
+},
+{
+  "value": "GNS Accounting and Auditing",
+  "label": "GENERAL SERVICES – Costs relatingto bookkeepers, auditors, and accountants."
+},
+{
+  "value": "GNS Advertising Services",
+  "label": "GENERAL SERVICES – Costs forprint, videotape, radio, television, or other media services."
+},
+{
+  "value": "GNS Animal Care",
+  "label": "GENERAL SERVICES – Costs forgeneral animal care."
+},
+{
+  "value": "GNS Architects",
+  "label": "GENERAL SERVICES – Costs foroutside architect services related to the project."
+},
+{
+  "value": "GNS Banking",
+  "label": "GENERAL SERVICES – Costs forgeneral banking services."
+},
+{
+  "value": "GNS Building Property Services",
+  "label": "GENERAL SERVICES – Costs forrefuse collection, pest control, cleaning, mowing, snow removal, andlandscaping."
+},
+{
+  "value": "GNS Claims",
+  "label": "GENERAL SERVICES – Compensatorydamage settlements."
+},
+{
+  "value": "GNS Clerical Servs",
+  "label": "GENERAL SERVICES – Costs forindependent contractors or employment agency clerical services."
+},
+{
+  "value": "GNS Client Services",
+  "label": "GENERAL SERVICES -Nonmedicalservices, including employment services and educational services, andfurlough expenses."
+},
+{
+  "value": "GNS Consultant Services",
+  "label": "GENERAL SERVICES – General outsideconsulting services."
+},
+{
+  "value": "GNS Critic Teacher Stipend",
+  "label": "GENERAL SERVICES – Stipends givento supervisors of student teachers."
+},
+{
+  "value": "GNS Critic Teacher Waiver",
+  "label": "GENERAL SERVICES – Tuition waiversgiven to supervisors of student teachers."
+},
+{
+  "value": "GNS General",
+  "label": "GENERAL SERVICES – Generalservices required for the project."
+},
+{
+  "value": "GNS Grad Teach Asst Stipend",
+  "label": "GENERAL SERVICES – Stipends tograduate teaching assistants."
+},
+{
+  "value": "GNS Highway Maint Services",
+  "label": "GENERAL SERVICES – Costs formowing, drain maintenance, and tree trimming related to highways."
+},
+{
+  "value": "GNS Housing",
+  "label": "GENERAL SERVICES – General housingexpenses not covered under other categories."
+},
+{
+  "value": "GNS IT Cnslt Dsgn Devel Servs",
+  "label": "GENERAL SERVICES – Consultantcosts for development, design, testing, and implementation of custom computersystems (Information Technology)."
+},
+{
+  "value": "GNS IT Hardware Maintenance",
+  "label": "GENERAL SERVICES – Hardwaremaintenance and support agreements (Information Technology)."
+},
+{
+  "value": "GNS IT Services Other",
+  "label": "GENERAL SERVICES – Informationtechnology training and IT time-sharing services."
+},
+{
+  "value": "GNS IT Servs Software Licenses",
+  "label": "GENERAL SERVICES – Software,software licenses, and upgrades (Information Technology)."
+},
+{
+  "value": "GNS IT Software Install Integr",
+  "label": "GENERAL SERVICES – Consultantcosts to install software and/or interface (integrate) software with existingapplications, as well as costs to customize software packages (InformationTechnology)."
+},
+{
+  "value": "GNS IT Software Maintenance",
+  "label": "GENERAL SERVICES – Softwaremaintenance and support agreements (Information Technology)."
+},
+{
+  "value": "GNS Insurance Equipment",
+  "label": "GENERAL SERVICES – Costs relatingto insurance equipment, such as materials required for insurability."
+},
+{
+  "value": "GNS Insurance Other",
+  "label": "GENERAL SERVICES -Other-than-equipment costs relating to insurance, such as inspections andappraisals."
+},
+{
+  "value": "GNS Interest Late Contract",
+  "label": "GENERAL SERVICES – Interest costsfor late contracts."
+},
+{
+  "value": "GNS Interest Late Payment NPS",
+  "label": "GENERAL SERVICES – Interest costsfor late payments for nonpersonal services (i.e., nonpayroll categories)."
+},
+{
+  "value": "GNS Interest Lease Purchase",
+  "label": "GENERAL SERVICES – Interest costsrelating to lease purchase obligations."
+},
+{
+  "value": "GNS Interest Other",
+  "label": "GENERAL SERVICES – Costs relatedto interest but not relating to another interest category."
+},
+{
+  "value": "GNS Interest Sponsor",
+  "label": "GENERAL SERVICES – Interest paidto a sponsor."
+},
+{
+  "value": "GNS Investment Fees",
+  "label": "GENERAL SERVICES – Investment feesexpenses."
+},
+{
+  "value": "",
+  "label": "(Used only by Central Office.)"
+},
+{
+  "value": "GNS Judgments",
+  "label": "GENERAL SERVICES -Expensesrelating to any judgments pursued by or against the RF."
+},
+{
+  "value": "GNS Jury Services",
+  "label": "GENERAL SERVICES – Payments tojurors for per diem and lodging."
+},
+{
+  "value": "GNS Laundry and Janitor Servs",
+  "label": "GENERAL SERVICES – Costs ofoutside laundry, linen supply, and janitorial services."
+},
+{
+  "value": "GNS Lecturer",
+  "label": "GENERAL SERVICES – Costs foroutside lecturers and related costs."
+},
+{
+  "value": "GNS Legal",
+  "label": "GENERAL SERVICES – Costs forattorneys, paralegals, and hearing officers."
+},
+{
+  "value": "GNS Manpower Services",
+  "label": "GENERAL SERVICES – General outsidemanpower services not relative to another category."
+},
+{
+  "value": "GNS Medical Clinical",
+  "label": "GENERAL SERVICES – Costs fordoctors, nurses, pharmacists, dentists, dietitians, medical and healthresearch, and veterinarians."
+},
+{
+  "value": "GNS Other Professional Services",
+  "label": "GENERAL SERVICES – Costs for professionalservices not otherwise classified."
+},
+{
+  "value": "GNS Recruitment",
+  "label": "GENERAL SERVICES – Any outsiderecruitment efforts."
+},
+{
+  "value": "GNS Security Servs",
+  "label": "GENERAL SERVICES – Any outsidesecurity services provided for the project."
+},
+{
+  "value": "GNS Student Aid Payments",
+  "label": "GENERAL SERVICES -Student aidpayments."
+},
+{
+  "value": "GNS Subject Costs",
+  "label": "GENERAL SERVICES – Payments tosubjects."
+},
+{
+  "value": "GNS Tuition Waiver",
+  "label": "GENERAL SERVICES -Tuition waivers."
+},
+{
+  "value": "GNS Unallocated Gen Service",
+  "label": "GENERAL SERVICES – Servicesbudgeted under the major General Services but not allocated to any minorcategory."
+},
+{
+  "value": "GNS Unallowable General Servs",
+  "label": "GENERAL SERVICES – Generalservices costs that the sponsor will not pay for or allow."
+},
+{
+  "value": "LBS Unalloc Lease Serv Equip",
+  "label": "LEASE & SERVICES BUILDING -Services budgeted under the major Lease and Services Building but notallocated to any minor category."
+},
+{
+  "value": "LSB Building and Maint Repairs",
+  "label": "LEASE & SERVICES BUILDING -Repairs to heating and cooling systems, elevators, fire alarms, and windowreplacements, as well as payments to electricians and plumbers."
+},
+{
+  "value": "LSB Real Prop Base Rent",
+  "label": "LEASE & SERVICES BUILDING -Base rental payments for office, warehouse, and storage space."
+},
+{
+  "value": "LSB Real Prop Constr Fitup",
+  "label": "LEASE & SERVICES BUILDING -Charges by a landlord for alterations to leased space."
+},
+{
+  "value": "LSB Real Prop Cost Escalation",
+  "label": "LEASE & SERVICES BUILDING -The tenant share of operating cost increases over the base year amount,including janitorial, building maintenance, and common area costs."
+},
+{
+  "value": "LSB Real Prop Tax Escalation",
+  "label": "LEASE & SERVICES BUILDING -The tenant share of real tax increases over the base year amount, includingestimated payments."
+},
+{
+  "value": "LSB Real Prop Utilities",
+  "label": "LEASE & SERVICES BUILDING -Submetered utilities, including electric, gas, and steam billed directly bythe landlord."
+},
+{
+  "value": "LSB Unalloc Lease Ser Building",
+  "label": "LEASE & SERVICES BUILDING – Costsbudgeted under the major LSB category but not allocated to a minor category."
+},
+{
+  "value": "LSE Equip Maint Repairs Commun",
+  "label": "LEASE & SERVICES EQUIPMENT -Maintenance and repair of communications equipment, such as telephones andcellular phones."
+},
+{
+  "value": "LSE Equip Maint Repairs IT",
+  "label": "LEASE & SERVICES EQUIPMENT -Maintenance and repair of information technology equipment, such ascomputers, printers, scanners, and other computer-related equipment."
+},
+{
+  "value": "LSE Equip Maint Repairs Other",
+  "label": "LEASE & SERVICES EQUIPMENT -Maintenance and repair of educational equipment, office equipment, officefurniture, and lab equipment."
+},
+{
+  "value": "LSE Equip Maint Repairs Vhcles",
+  "label": "LEASE & SERVICES EQUIPMENT -Maintenance and repairs of project-related vehicles, airplanes, trucks,boats, and snowmobiles."
+},
+{
+  "value": "LSE Leases IT Equip",
+  "label": "LEASE & SERVICES EQUIPMENT -Costs of information technology equipment leased for use on the project."
+},
+{
+  "value": "LSE Leases Other Equip",
+  "label": "LEASE & SERVICES EQUIPMENT -Costs of noninformation technology equipment leased."
+},
+{
+  "value": "LSE Leases Vhcles",
+  "label": "LEASE & SERVICES EQUIPMENT -Costs for leases on vehicles."
+},
+{
+  "value": "LSE Unalloc Lease Ser Equip",
+  "label": "LEASE & SERVICES EQUIPMENT -Costs budgeted under the major Lease and Services Equipment category but notallocated under a minor category."
+},
+{
+  "value": "NCO Non Cash Equipment",
+  "label": "NON CASH – Costs related toequipment with a cost of $5,000 that are expended on awards codes with thenon cash award purpose code."
+},
+{
+  "value": "NCO Non Cash F and A",
+  "label": "NON CASH – Facilities andadministration costs that are expended on awards coded with the non cashaward purpose code."
+},
+{
+  "value": "NCO Non Cash General Services",
+  "label": "NON CASH – Costs related togeneral services that are expended on awards coded with the non cash awardpurpose code."
+},
+{
+  "value": "NCO Non Cash Supplies",
+  "label": "NON CASH – Costs related tosupplies that are expended on awards coded with the non cash award purposecode."
+},
+{
+  "value": "NCO Non Cash Other",
+  "label": "NON CASH - Other expenses that areexpended on awards coded with the non cash award purpose code."
+},
+{
+  "value": "NCO Override Non Cash F and A",
+  "label": "NON CASH – Manual charges forfacilities and administration costs that will be excluded from the IDCcalculation and controls that are expended on awards coded with the non cashaward purpose code."
+},
+{
+  "value": "OTR Bad Debt Expense",
+  "label": "OTHER EXPENSES – Project-relatedbad debt expenses."
+},
+{
+  "value": "OTR Charge Card Clearing",
+  "label": "OTHER EXPENSES – Charge cardclearing expenses."
+},
+{
+  "value": "OTR CO Assessment",
+  "label": "OTHER EXPENSES – Campus portion ofthe central office assessment. (Used only at central office.)"
+},
+{
+  "value": "OTR Collection Fees",
+  "label": "OTHER EXPENSES – Collection fees."
+},
+{
+  "value": "OTR Earned Discounts",
+  "label": "OTHER EXPENSES – Earned discounts."
+},
+{
+  "value": "OTR Expatriat Allowances",
+  "label": "OTHER EXPENSES – Allowances to Expatriates."
+},
+{
+  "value": "OTR IP TTO  Development",
+  "label": "Expenses to increase theTechnology Readiness Level of the subject Intellectual Property. (Used by TTO Campus & CO only.)"
+},
+{
+  "value": "OTR IP TTO Enforcement",
+  "label": "Expenses to assert or defend apatent, trademark, or copyright. (Used by TTO Campus & CO only.)"
+},
+{
+  "value": "OTR IP TTO Evaluation>",
+  "label": "Expenses incurred to determinemarketability, patentability or freedom to operate of the subjectIntellectual Property. (Used by TTO Campus & CO only.)"
+},
+{
+  "value": "OTR IP TTO Maintenance",
+  "label": "Expenses to maintain legal rightsin subject Intellectual Property. (Used by TTO Campus & CO only.)"
+},
+{
+  "value": "OTR IP TTO Marketing>",
+  "label": "Expenses to attract acommercialization partner for the subject Intellectual Property. (Used by TTOCampus & CO only.)"
+},
+{
+  "value": "OTR IP TTO Pre-Disclosure Exp",
+  "label": "Expensesincurred prior to the submission of a technology disclosure form. (Used by TTO Campus & CO only.)"
+},
+{
+  "value": "OTR IP TTO Protection",
+  "label": "Expenses to secure legalprotection of the subject Intellectual Property. (Used by TTO Campus & COonly.)"
+},
+{
+  "value": "OTR Miscellaneous Other",
+  "label": "OTHER EXPENSES – Miscellaneousexpenses."
+},
+{
+  "value": "OTR Nonresident Alien Tax",
+  "label": "OTHER EXPENSES – Any nonresidentalien tax."
+},
+{
+  "value": "OTR OASIS Assessment",
+  "label": "OTHER EXPENSES – Campus portion ofthe Oracle business system cost. (Used only by central office.)"
+},
+{
+  "value": "OTR Patent Expenses",
+  "label": "OTHER EXPENSES – Patent-related."
+},
+{
+  "value": "OTR Penalties and Fines",
+  "label": "OTHER EXPENSES – Costs for anypenalties and fines."
+},
+{
+  "value": "OTR Refunds to Grantor",
+  "label": "OTHER EXPENSES – Any refunds tothe project grantor."
+},
+{
+  "value": "OTR Royalty Payments",
+  "label": "OTHER EXPENSES – Any royalty."
+},
+{
+  "value": "OTR Unallocated Other Expenses",
+  "label": "OTHER EXPENSES – Expenses budgetedunder the OTR major category but not allocated to a minor category."
+},
+{
+  "value": "OTR Unallowable Other",
+  "label": "OTHER EXPENSES – Expenses that thesponsor will not pay for or allow."
+},
+{
+  "value": "OTR Unearned Discounts",
+  "label": "OTHER EXPENSES – Costs relating togeneral unearned discounts."
+},
+{
+  "value": "PAT Patient Care",
+  "label": "PATIENT CARE – Costs for providinghospital services to patients (inpatient and outpatient)."
+},
+{
+  "value": "PAT Unallocated Patient Care",
+  "label": "PATIENT CARE – The amount budgetedwithin the major PAT patient care category that is not allocated to a minorcategory."
+},
+{
+  "value": "PAT Unallowable Patient Care",
+  "label": "PATIENT CARE – Patient care coststhat the sponsor will not pay for or allow."
+},
+{
+  "value": "PBS IT Telecommun Services",
+  "label": "PUBLIC SERVICES – Project-relatedpublic service information technology telecommunications services."
+},
+{
+  "value": "PBS Telephone Services",
+  "label": "PUBLIC SERVICES – Telephone andrelated communication costs."
+},
+{
+  "value": "PBS Unallocated Public Ser",
+  "label": "PUBLIC SERVICES – Any materials orservices budgeted under the major public services category but not allocatedto a minor category."
+},
+{
+  "value": "PGA Annuity Payments",
+  "label": "Payments made to annuitants perthe terms of the Charitable Gift Annuity. (Used only by central office.)"
+},
+{
+  "value": "PGA Net Realized",
+  "label": "Net realized gains or losses onthe invested Charitable Gift Annuity. (Used only by central office.)"
+},
+{
+  "value": "PGA Net Unrealized",
+  "label": "Net unrealized gains or losses onthe invested Charitable Gift Annuity. (Used only by central office.)"
+},
+{
+  "value": "PGA Fees",
+  "label": "Fees associated with the administrationof the Charitable Gift Annuity. (Used only by central office.)"
+},
+{
+  "value": "PGA Interest Income",
+  "label": "Interest or dividend income on theinvested Charitable Gift Annuity. (Used only by central office.)"
+},
+{
+  "value": "PGA Charitable Gift",
+  "label": "Original face value of theCharitable Gift Annuity. (Used only by central office.)"
+},
+{
+  "value": "PPP Outside Printing",
+  "label": "POSTAGE AND PUBLISHING – Outsideprinting of project or activity, such as a book, monograph, pamphlet orscientific manual."
+},
+{
+  "value": "PPP Page Cost",
+  "label": "POSTAGE AND PUBLISHING -Publishing an article in a professional or scientific journal."
+},
+{
+  "value": "PPP Postage",
+  "label": "POSTAGE & PUBLISHING – Postagefor mailings."
+},
+{
+  "value": "PPP Publishing",
+  "label": "POSTAGE & PUBLISHING -Publishing the results of project activities, such as a book, monograph,pamphlet, or scientific manual."
+},
+{
+  "value": "PPP Unallocated Post and Publ",
+  "label": "POSTAGE & PUBLISHING – Theamount budgeted within the major publishing and post category that is notallocated to a minor category."
+},
+{
+  "value": "PPP Unallowable Post and Print",
+  "label": "POSTAGE & PUBLISHING – Costsrelating to postage and printing that the sponsor will not pay for or allow."
+},
+{
+  "value": "RCH Animal Care",
+  "label": "RECHARGES, CAMPUS SERVICES – Usedwhen processing a zero invoice to transfer animal care expenses from aService and Facilities project/task/award to the user of the service."
+},
+{
+  "value": "RCH Auto Bus Rental",
+  "label": "RECHARGES, CAMPUS SERVICES – Usedwhen processing a zero invoice to transfer costs for any project-relatednonfleet vehicle rentals."
+},
+{
+  "value": "RCH Auto Credit Cards",
+  "label": "RECHARGES, CAMPUS SERVICES – Usedwhen processing a zero invoice to transfer costs relating to automobilecredit cards."
+},
+{
+  "value": "RCH Auto Fleet Rental",
+  "label": "RECHARGES, CAMPUS SERVICES – Usedwhen processing a zero invoice to transfer automobile fleet rental expensesfrom a Service and Facilities project/task/award to the user of the service."
+},
+{
+  "value": "RCH Auto Gas",
+  "label": "RECHARGES, CAMPUS SERVICES – Usedwhen processing a zero invoice to transfer automobile gasoline expenses froma Service and Facilities project/task/award to the user of the service."
+},
+{
+  "value": "RCH Auto Miscellaneous",
+  "label": "RECHARGES, CAMPUS SERVICES – Usedwhen processing a zero invoice to transfer miscellaneous automobile expenses."
+},
+{
+  "value": "RCH Auto Servs and Repairs",
+  "label": "RECHARGES, CAMPUS SERVICES – Usedwhen processing a zero invoice to transfer costs for automobile services andrepairs."
+},
+{
+  "value": "RCH Bioelectronic Lab",
+  "label": "RECHARGES, CAMPUS SERVICES – Usedwhen processing a zero invoice to transfer costs related to bioelectroniclaboratories."
+},
+{
+  "value": "RCH Central Dup and Printing",
+  "label": "RECHARGES, CAMPUS SERVICES – Usedwhen processing a zero invoice to transfer central duplication and printingexpenses from a Service and Facilities project/task/award to the user of theservice."
+},
+{
+  "value": "RCH Central Stores",
+  "label": "RECHARGES, CAMPUS SERVICES – Usedwhen processing a zero invoice to transfer costs relating to the centralstores."
+},
+{
+  "value": "RCH Computer Services",
+  "label": "RECHARGES, CAMPUS SERVICES – Usedwhen processing a zero invoice to transfer costs relating to computerservices from a Service and Facilities project/task/award to the user of theservice."
+},
+{
+  "value": "RCH Educational Commun",
+  "label": "RECHARGES, CAMPUS SERVICES – Usedwhen processing a zero invoice to transfer costs relating to educationalcommunications."
+},
+{
+  "value": "RCH Facilities Use",
+  "label": "RECHARGES, CAMPUS SERVICES – Usedto recharge an outside third party for using facilities (building, equipment,etc.)."
+},
+{
+  "value": "",
+  "label": "Note: This expenditure type isexcluded from the MTDC base."
+},
+{
+  "value": "RCH Hazardous Waste",
+  "label": "RECHARGES, CAMPUS SERVICES – Usedwhen processing a zero invoice to transfer costs relating to hazardous wastehandling and disposal."
+},
+{
+  "value": "RCH Mail",
+  "label": "RECHARGES, CAMPUS SERVICES – Usedwhen processing a zero invoice to transfer mail costs."
+},
+{
+  "value": "RCH Other Recharges",
+  "label": "RECHARGES, CAMPUS SERVICES – Usedwhen processing a zero invoice to transfer general costs that are not part ofanother minor category."
+},
+{
+  "value": "RCH Radiation Protec Servs",
+  "label": "RECHARGES, CAMPUS SERVICES – Usedwhen processing a zero invoice to transfer costs relating to radiation protectiveservices from a Service and Facilities project/task/award to the user of theservice."
+},
+{
+  "value": "RCH Radioactive Materials",
+  "label": "RECHARGES, CAMPUS SERVICES – Usedwhen processing a zero invoice to transfer costs relating to radioactivematerials."
+},
+{
+  "value": "RCH Recycling Deposits Credit",
+  "label": "RECHARGES, CAMPUS SERVICES – Usedwhen processing a zero invoice to transfer credit from recycling deposits."
+},
+{
+  "value": "RCH Scientific Med Instrument",
+  "label": "RECHARGES, CAMPUS SERVICES – Usedwhen processing a zero invoice to transfer costs relating to scientific andmedical instruments from a Service and Facilities project/task/award to theuser of the service."
+},
+{
+  "value": "RCH Telephone",
+  "label": "RECHARGES, CAMPUS SERVICES – Usedwhen processing a zero invoice to transfer costs relating to generaltelephone service."
+},
+{
+  "value": "RCH Telephone Adjustments",
+  "label": "RECHARGES, CAMPUS SERVICES – Usedwhen processing a zero invoice to transfer costs relating to telephoneadjustments."
+},
+{
+  "value": "RCH Telephone Install Relocate",
+  "label": "RECHARGES, CAMPUS SERVICES – Usedwhen processing a zero invoice to transfer telephone installation andtelephone relocation expenses from a Service and Facilitiesproject/task/award to the user of the service."
+},
+{
+  "value": "RCH Telephone Local Usage",
+  "label": "RECHARGES, CAMPUS SERVICES – Usedwhen processing a zero invoice to transfer local telephone usage expensesfrom a Service and Facilities project/task/award to the user of the service."
+},
+{
+  "value": "RCH Telephone Maintenance",
+  "label": "RECHARGES, CAMPUS SERVICES – Usedwhen processing a zero invoice to transfer costs relating to telephonemaintenance."
+},
+{
+  "value": "RCH Telephone Tolls",
+  "label": "RECHARGES, CAMPUS SERVICES – Usedwhen processing a zero invoice to transfer telephone toll expenditures from aService and Facilities project/task/award to the user of the service."
+},
+{
+  "value": "RCH Unallocated Recharges",
+  "label": "RECHARGES, CAMPUS SERVICES – Usedwhen processing a zero invoice to transfer costs budgeted under RCH but notallocated under a minor category."
+},
+{
+  "value": "RCH Unallowable Recharges",
+  "label": "RECHARGES, CAMPUS SERVICES -Recharge costs that the sponsor will not pay for or allow."
+},
+{
+  "value": "REL Relocation",
+  "label": "RELOCATION -Costs for relocationof a person."
+},
+{
+  "value": "REL Relocation NonTaxable",
+  "label": "RELOCATION – Nontaxable costs forrelocation expenses."
+},
+{
+  "value": "REL Unallocated Relocation",
+  "label": "RELOCATION – Relocation expensesthat are budgeted under the major REL category but not allocated under aminor category."
+},
+{
+  "value": "SUB Subawards above 25000",
+  "label": "SUBAWARDS – Costs of subawardsabove $25,000."
+},
+{
+  "value": "SUB Subawards first 25000",
+  "label": "SUBAWARDS – Costs of subawards upto $25,000."
+},
+{
+  "value": "SUB Unallocated Subawards",
+  "label": "SUBAWARDS – Costs budgeted underthe major SUB category but not allocated to a minor category."
+},
+{
+  "value": "SUB Unallowable Subawards",
+  "label": "SUBAWARDS – Subaward costs thatthe sponsor will not pay for or allow."
+},
+{
+  "value": "SUP Athletic Supplies",
+  "label": "SUPPLIES – Costs for athleticsupplies."
+},
+{
+  "value": "SUP Below Threshold Equip",
+  "label": "SUPPLIES – Equipment designated asbelow the $5,000 equipment threshold. Supply cost must be less than $5,000."
+},
+{
+  "value": "SUP Books and Periodicals",
+  "label": "SUPPLIES – Subscriptions tojournals, a print or prints of a published book or pamphlet, and similarpurchases of existing publications, including books for students."
+},
+{
+  "value": "SUP Class General",
+  "label": "SUPPLIES – Costs for generalsupplies."
+},
+{
+  "value": "SUP Class Hazard Chemicals",
+  "label": "SUPPLIES – Nonmedical hazardouschemical supplies."
+},
+{
+  "value": "SUP Class Lab",
+  "label": "SUPPLIES – Costs for laboratorysupplies."
+},
+{
+  "value": "SUP Class Rad Film Badges",
+  "label": "SUPPLIES – Nonmedical radiationfilm badges that are project-related."
+},
+{
+  "value": "SUP Class Tank Gas",
+  "label": "SUPPLIES – Tank gas and relatedsupplies."
+},
+{
+  "value": "SUP Clothing and Footwear",
+  "label": "SUPPLIES – Clothing and footweardirectly related to a project."
+},
+{
+  "value": "SUP Controlled Substances",
+  "label": "SUPPLIES -Controlled substances."
+},
+{
+  "value": "SUP Drugs Prescrip and Other",
+  "label": "SUPPLIES -Prescription drugs thatare not controlled substances."
+},
+{
+  "value": "SUP Facility Resident Supplies",
+  "label": "SUPPLIES – Facility residentsupplies."
+},
+{
+  "value": "SUP Farm and Garden",
+  "label": "SUPPLIES – Farm and gardensupplies."
+},
+{
+  "value": "SUP Food and Bev Supplies",
+  "label": "SUPPLIES – Costs for institutionalfood and bottled water."
+},
+{
+  "value": "SUP Fuel for Buildings",
+  "label": "SUPPLIES – Costs for fuel oil forheating."
+},
+{
+  "value": "SUP Fuel for Motor Vehicles",
+  "label": "SUPPLIES – Gas, diesel, andalternative fuel, as well as fuel for project-related OGS fleet vehicles."
+},
+{
+  "value": "SUP IT Supplies",
+  "label": "SUPPLIES – Information technologysupplies, such as diskettes, printer ribbons, and continuous feed paper."
+},
+{
+  "value": "SUP Lab Animals",
+  "label": "SUPPLIES – Costs of acquiringanimals required for the conduct of research. Animal care costs are budgetedand spent separately from acquisition costs."
+},
+{
+  "value": "SUP Lab Chemicals",
+  "label": "SUPPLIES – Chemical items that areexpended when put to use, that have an expected service or normal life ofless than one year, or that are of low unit cost."
+},
+{
+  "value": "SUP Lab Glassware",
+  "label": "SUPPLIES – Glassware items thatare expended when put to use, that have an expected service or normal life ofless than one year, or that are of low unit cost."
+},
+{
+  "value": "SUP Maintenance and Repair",
+  "label": "SUPPLIES – Supplies used formaintenance and repair."
+},
+{
+  "value": "SUP Materials and Manufacturing",
+  "label": "SUPPLIES – Costs for materials andmanufacturing supplies."
+},
+{
+  "value": "SUP Med Radiation Film Badges",
+  "label": "SUPPLIES – Medical radiation filmbadges that are project-related."
+},
+{
+  "value": "SUP Medical Dental Lab",
+  "label": "SUPPLIES – Medical and dentallaboratory supplies."
+},
+{
+  "value": "SUP Medical Hazard Chemicals",
+  "label": "SUPPLIES – Medical hazardouschemical supplies."
+},
+{
+  "value": "SUP Medical Lab General",
+  "label": "SUPPLIES – Costs related togeneral medical laboratory supplies."
+},
+{
+  "value": "SUP Medical Waste",
+  "label": "SUPPLIES – Costs associated withmedical waste."
+},
+{
+  "value": "SUP Motor Equipment Supplies",
+  "label": "SUPPLIES – Costs for motorized equipmentsupplies."
+},
+{
+  "value": "SUP Office Supplies",
+  "label": "SUPPLIES – Costs related tophotocopy supplies, paper, pens, pencils, clips, and tape."
+},
+{
+  "value": "SUP Other Supplies",
+  "label": "SUPPLIES – Costs related tosupplies that are not otherwise classified."
+},
+{
+  "value": "SUP Photographic Supplies",
+  "label": "SUPPLIES – Costs ofproject-related photographic materials that are tangible and consumable,expendable, or of low unit cost."
+},
+{
+  "value": "SUP Print General",
+  "label": "SUPPLIES – Costs related togeneral printing that are not covered under another minor category."
+},
+{
+  "value": "SUP Print Label and Inserting",
+  "label": "SUPPLIES – Costs related toprinting labels and insertion or collation of printed materials for theproject."
+},
+{
+  "value": "SUP Print Typeset and Design",
+  "label": "SUPPLIES – Typesetting and designof printed materials related to the project."
+},
+{
+  "value": "SUP Radioactive Materials",
+  "label": "SUPPLIES – Costs for radioactivematerials and their handling."
+},
+{
+  "value": "SUP Unallowable Supplies",
+  "label": "SUPPLIES – Supply costs that thesponsor will not pay for or allow."
+},
+{
+  "value": "SUP Unallocated Supplies",
+  "label": "SUPPLIES – Supply costs that arebudgeted under the major SUP category but not allocated under a minorcategory."
+},
+{
+  "value": "SWI IFR Payments",
+  "label": "SALARY & WAGE (IFR) – Incomefund reimbursable salary and wage expenses paid to affiliated institutions(nonSUNY institutions)."
+},
+{
+  "value": "SWI SUNY IFR Regular",
+  "label": "SALARY & WAGE (IFR) – Based onpayroll or invoice, income fund reimbursable salary and wage expenses for aregular SUNY employee."
+},
+{
+  "value": "SWI SUNY IFR No Fringe",
+  "label": "SALARY & WAGE (IFR) – Nofringe benefits costs for income fund reimbursable expenses."
+},
+{
+  "value": "SWI Unallocated S and W IFR",
+  "label": "SALARY & WAGE (IFR) – Salary andwage costs not allocated under a minor category for income fund reimbursableexpenses."
+},
+{
+  "value": "SWG Adj Grad Nonexempt",
+  "label": "SALARY & WAGE (GRADUATE) -Adjustments (including hourly expenditure reversals) to compensation fornonexempt graduate student employees."
+},
+{
+  "value": "SWG Grad Exempt",
+  "label": "SALARY & WAGE (GRADUATE) -Compensation for exempt graduate student employees."
+},
+{
+  "value": "SWG Grad Nonexempt",
+  "label": "SALARY & WAGE (GRADUATE) -Compensation for nonexempt graduate student employees."
+},
+{
+  "value": "SWG Grad Nonexempt OT",
+  "label": "SALARY & WAGE (GRADUATE) -Overtime compensation for nonexempt graduate student employees."
+},
+{
+  "value": "SWG Grad Tuition",
+  "label": "SALARY & WAGE (GRADUATE) -Graduate student tuition costs considered as compensation."
+},
+{
+  "value": "SWG Unallocated S and W Grad",
+  "label": "SALARY & WAGE (GRADUATE) -Graduate student compensation not allocated under a minor category."
+},
+{
+  "value": "SWM Accrued Vacation Payments",
+  "label": "SALARY & WAGE (MISCELLANEOUS)– PTO leave accruals paid at termination."
+},
+{
+  "value": "SWM Accrued Sick Time",
+  "label": "SALARY & WAGE (MISCELLANEOUS)– Sick leave accruals paid at termination."
+},
+{
+  "value": "SWM Payroll Suspense",
+  "label": "SALARY & WAGE (MISCELLANEOUS)– Charges for payroll expenditures that could not be allocated to a validproject, task, award, expenditure type, and organization. This is the onlysalary and wage expenditure type allowed to be charged to Payroll SuspenseAwards."
+},
+{
+  "value": "SWM Salaries Oth Inst Activity",
+  "label": "SALARY & WAGE (MISCELLANEOUS)– SUNY salary costs for SUNY salaries not charged to cost sharing or IFR(used to allocate the balance of a distribution against the SUNY salary).This is the only expenditure type allowed to be charged to OtherInstitutional Activity Suspense Awards."
+},
+{
+  "value": "SWM SUNY Suspense",
+  "label": "SALARY & WAGE (MISCELLANEOUS)– Charges for SUNY IFR or cost sharing that could not be allocated to a validproject, task, award, expenditure type, and organization. This is the onlyexpenditure type allowed to be charged to SUNY Suspense Awards."
+},
+{
+  "value": "SWM Unallocated S and W Misc",
+  "label": "SALARY & WAGE (MISCELLANEOUS)– Miscellaneous compensation not allocated under a minor category."
+},
+{
+  "value": "SWR Adj Regular Nonexempt",
+  "label": "SALARY & WAGE (REGULAR) – Adjustments(including hourly expenditure reversals) to compensation for nonexemptregular employees."
+},
+{
+  "value": "SWR Regular Exempt",
+  "label": "SALARY & WAGE (REGULAR) -Compensation to exempt, regular employees."
+},
+{
+  "value": "SWR Regular Exempt Extra Serv",
+  "label": "SALARY & WAGE (REGULAR) -Compensation to regular exempt employees for extra service, in accordancewith federal guidelines and SUNY regulations."
+},
+{
+  "value": "SWR Regular Nonexempt",
+  "label": "SALARY & WAGE (REGULAR) -Compensation to nonexempt regular employees."
+},
+{
+  "value": "SWR Regular Nonexempt OT",
+  "label": "SALARY & WAGE (REGULAR) -Overtime compensation to nonexempt regular employees."
+},
+{
+  "value": "SWR Relocation Taxable",
+  "label": "SALARY & WAGE (REGULAR) -Charges for moving expenses that are taxable to the employee."
+},
+{
+  "value": "SWR Severance Regular",
+  "label": "SALARY & WAGE (REGULAR) -Payment to an administrative employee who is terminated as part of anapproved reduction-in-force program."
+},
+{
+  "value": "SWR Unallocated S and W Reg",
+  "label": "SALARY & WAGE (REGULAR) -Regular employee compensation budgeted under the major SWR category but notallocated under a minor category."
+},
+{
+  "value": "SWS Adj Summer Nonexempt",
+  "label": "SALARY & WAGE (SUMMER) -Adjustments (including hourly expenditure reversals) to compensation fornonexempt summer only employees."
+},
+{
+  "value": "SWS NQual Moving",
+  "label": "SALARY & WAGE (SUMMER) Used for Non RFemployee processing – Taxable moving expense reimbursements."
+},
+{
+  "value": "SWS Non RF EE",
+  "label": "SALARY & WAGE (SUMMER) Used for Non RFemployee processing."
+},
+{
+  "value": "SWS Non RF EE Misc Imp",
+  "label": "SALARY & WAGE (SUMMER) Used for NonRF employee processing – non-direct paid amounts or benefits."
+},
+{
+  "value": "SWS Non RF EE Misc Imp D",
+  "label": "SALARY & WAGE (SUMMER) Used for NonRF employee processing – non-direct deduction for processing Non RFnon-direct transactions."
+},
+{
+  "value": "SWS Qual Moving",
+  "label": "SALARY & WAGE (SUMMER) Used for NonRF employee processing -Nontaxable moving expense reimbursements (W-2Box 12P)."
+},
+{
+  "value": "SWS Summer Exempt",
+  "label": "SALARY & WAGE (SUMMER) -Compensation to exempt summer only employees."
+},
+{
+  "value": "SWS Summer Exempt Extra Serv",
+  "label": "SALARY & WAGE (SUMMER) -Compensation to summer only exempt employees for extra service, in accordancewith federal guidelines and SUNY regulations."
+},
+{
+  "value": "SWS Summer Nonexempt",
+  "label": "SALARY & WAGE (SUMMER) -Compensation to nonexempt summer only employees."
+},
+{
+  "value": "SWS Summer Nonexempt OT",
+  "label": "SALARY & WAGE (SUMMER) -Overtime compensation to nonexempt summer only employees."
+},
+{
+  "value": "SWS Unallocated S and W Summer",
+  "label": "SALARY & WAGE (SUMMER) – Summeronly employee compensation budgeted under the major SWS category but notallocated under a minor category."
+},
+{
+  "value": "SWU Adj Undergrad Nonexempt",
+  "label": "SALARY & WAGE (UNDERGRADUATE)– Adjustments (including hourly expenditure reversals) to compensation fornonexempt undergraduate student employees."
+},
+{
+  "value": "SWU Unalloc S and W UnderGrad",
+  "label": "SALARY & WAGE (UNDERGRADUATE)– Undergraduate student compensation not allocated under a minor category."
+},
+{
+  "value": "SWU Undergrad Exempt",
+  "label": "SALARY & WAGE (UNDERGRADUATE)– Compensation to exempt undergraduate student employees."
+},
+{
+  "value": "SWU Undergrad Nonexempt",
+  "label": "SALARY & WAGE (UNDERGRADUATE)– Compensation to nonexempt undergraduate student employees."
+},
+{
+  "value": "SWU Undergrad Nonexempt OT",
+  "label": "SALARY & WAGE (UNDERGRADUATE)– Overtime compensation to nonexempt employees."
+},
+{
+  "value": "TRV Business Travel Acct BTA",
+  "label": "TRAVEL (AMEX) – Payments toAmerican Express for a Business Travel Account."
+},
+{
+  "value": "TRV Domestic Travel",
+  "label": "TRAVEL (DOMESTIC) – Travel costswithin the United States and its territories and possessions. Travel inCanada may be considered domestic if so defined by the sponsor policy."
+},
+{
+  "value": "TRV Dom Air Fare",
+  "label": "TRAVEL (DOMESTIC) – Costs ofairfare within the United States and its territories and possessions. Travelin Canada may be considered domestic if so defined by the sponsor policy."
+},
+{
+  "value": "TRV Dom Lodging Actual",
+  "label": "TRAVEL (DOMESTIC) – Costs ofactual lodging within the United States and its territories and possessions.Travel in Canada may be considered domestic if so defined by the sponsorpolicy."
+},
+{
+  "value": "TRVDom Lodging Per Diem",
+  "label": "TRAVEL (DOMESTIC) – Costs oflodging at a per diem rate within the United States and its territories andpossessions. Travel in Canada may be considered domestic if so defined by thesponsor policy."
+},
+{
+  "value": "TRV Dom Meals Per Diem",
+  "label": "TRAVEL (DOMESTIC) – Costs of mealsat a per diem rate within the United States and its territories andpossessions. Travel in Canada may be considered domestic if so defined by thesponsor policy."
+},
+{
+  "value": "TRV Dom Meals Actual",
+  "label": "TRAVEL (DOMESTIC) - Actual costsof meals within the United States and its territories and possessions. Travelin Canada may be considered domestic if so defined by the sponsor policy."
+},
+{
+  "value": "TRV Dom Per Diem",
+  "label": "TRAVEL (DOMESTIC) – Costs oflodging and meals at a per diem rate within the United States and itsterritories and possessions. Travel in Canada may be considered domestic ifso defined by the sponsor policy."
+},
+{
+  "value": "TRV Dom Rental Cars",
+  "label": "TRAVEL (DOMESTIC) – Costs ofrental car expenses within the United States and its territories andpossessions. Travel in Canada may be considered domestic if so defined by thesponsor policy."
+},
+{
+  "value": "TRV Dom Personal Car Mileage",
+  "label": "TRAVEL (DOMESTIC) – Actualpersonal car mileage (taxable) within the United States and its territoriesand possessions. Travel in Canada may be considered domestic if so defined bythe sponsor policy."
+},
+{
+  "value": "TRV Dom Train Fare",
+  "label": "TRAVEL (DOMESTIC) – Costs of trainfare within the United States and its territories and possessions. Travel inCanada may be considered domestic if so defined by the sponsor policy."
+},
+{
+  "value": "TRV Dom Travel Other",
+  "label": "TRAVEL (DOMESTIC) – Costs of allother taxable travel expenses within the United States and its territoriesand possessions. Travel in Canada may be considered domestic if so defined bythe sponsor policy."
+},
+{
+  "value": "TRV Foreign Air Fare",
+  "label": "TRAVEL (FOREIGN) – Costs ofairfare outside of the United States and its territories and possessions."
+},
+{
+  "value": "TRV Foreign Train Fare",
+  "label": "TRAVEL (FOREIGN) – Costs of trainfare outside of the United States and its territories and possessions."
+},
+{
+  "value": "TRV Foreign Lodging Actual",
+  "label": "TRAVEL (FOREIGN) – Costs of actuallodging outside of the United States and its territories and possessions."
+},
+{
+  "value": "TRV Foreign Per Diem",
+  "label": "TRAVEL (FOREIGN) – Costs oflodging and meals at a per diem rate outside of the United States and itsterritories and possessions."
+},
+{
+  "value": "TRV Foreign Meals Actual",
+  "label": "TRAVEL (FOREIGN) – Actual costs ofmeals outside of the United States and its territories and possessions."
+},
+{
+  "value": "TRV Foreign Meals Per Diem",
+  "label": "TRAVEL (FOREIGN) – Costs of mealsat a per diem rate outside of the United States and its territories andpossessions."
+},
+{
+  "value": "TRV Foreign Rental Cars",
+  "label": "TRAVEL (FOREIGN) – Costs of rentalcars outside of the United States and its territories and possessions."
+},
+{
+  "value": "TRV Foreign Train Fare",
+  "label": "TRAVEL (FOREIGN) – Costs of trainfare outside of the United States and its territories and possessions."
+},
+{
+  "value": "TRV Foreign Travel",
+  "label": "TRAVEL (FOREIGN) – Costs oftraveling outside of the United States and its territories and possessions."
+},
+{
+  "value": "TRV Foreign Travel Other",
+  "label": "TRAVEL (FOREIGN) – Costs relatingto foreign travel not allocated in the minor category Foreign Travel."
+},
+{
+  "value": "TRV Unallocated Travel",
+  "label": "TRAVEL – Costs budgeted to themajor TRV travel category, but not allocated to a minor category."
+},
+{
+  "value": "TRV Unallowable Travel",
+  "label": "TRAVEL – Travel costs that thesponsor will not pay for or allow."
+},
+{
+  "value": "TUI NonSUNY Tuition and Fees",
+  "label": "TUITION AND FEES – Costs incurredoutside SUNY for specialized training for a person in the conduct of aproject."
+},
+{
+  "value": "TUI SUNY Tuition and Fees",
+  "label": "TUITION AND FEES – Costs ofspecialized training for a person in the conduct of a project."
+},
+{
+  "value": "TUI Unalloc Tuition and Fees",
+  "label": "TUITION AND FEES – The amountbudgeted in the major tuition and fees category that is not allocated to aminor category."
+},
+{
+  "value": "TUI Unallowable Tuition",
+  "label": "TUITION AND FEES – Tuition costsnot paid by the sponsor."
+},
+{
+  "value": "UTL Distribution System",
+  "label": "UTILITIES – Costs for utilitydistribution systems."
+},
+{
+  "value": "UTL Electricity",
+  "label": "UTILITIES – Utility cost forelectricity."
+},
+{
+  "value": "UTL Natural Gas",
+  "label": "UTILITIES – Utility cost fornatural gas."
+},
+{
+  "value": "UTL Other Utility Services",
+  "label": "UTILITIES – Utility expenses otherthan for electricity and natural gas."
+},
+{
+  "value": "UTL PASNY Electrical Purch",
+  "label": "UTILITIES – Costs related toelectricity purchased from the Power Authority of the State of New York."
+},
+{
+  "value": "UTL Sewage",
+  "label": "UTILITIES – Utility cost forsewage disposal."
+},
+{
+  "value": "UTL Steam",
+  "label": "UTILITIES – Utility cost forsteam."
+},
+{
+  "value": "UTL Unallocated Utilities",
+  "label": "UTILITIES – Costs budgeted underthe major UTL utilities category but not allocated to a minor category."
+},
+{
+  "value": "UTL Unallowable Utilities",
+  "label": "UTILITIES – Utility costs that thesponsor will not pay for or allow."
+},
+{
+  "value": "UTL Water",
+  "label": "UTILITIES – Utility cost forwater."
+}
+]
