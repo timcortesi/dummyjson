@@ -1,0 +1,10 @@
+[
+{
+  "value": "AGC Agency Fees",
+  "label": "AGENCY – System generated charges for facilities and administration for agency awards."
+},
+{
+  "value": "AGC Manual Agency Fees",
+  "label": "AGENCY – Manual charges for facilities and administration of agency awards. Manual charges are entered though a usage batch."
+}
+]
