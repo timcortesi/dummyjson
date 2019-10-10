@@ -1,10 +1,10 @@
 [
 {
-  "label":"This is a test",
-  "value":""
+"value": "",
+"label": "AGENCY – System generated charges for facilities and administration for agency awards."
 },
 {
-  "label":"This is a test2",
-  "value":""
+"value": "",
+"label": "AGENCY – Manual charges for facilities and administration of agency awards. Manual charges are entered though a usage batch."
 }
 ]
