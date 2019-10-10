@@ -12,7 +12,7 @@
   "label": "AGENCY – Manual charges for facilities and administration of agency awards. Manual charges are entered though a usage batch."
 },
 {
-  "value": "",
+  "value": "a",
   "label": "Charges to this expenditure type will override the nightly indirect cost calculation."
 },
 {
@@ -72,7 +72,7 @@
   "label": "COST SHARING (OTPS) – Unrecoveredfacilities and administrative costs committed by SUNY."
 },
 {
-  "value": "",
+  "value": "l",
   "label": "This expenditure type is excludedfrom the Long Form F & A rate development process."
 },
 {
@@ -80,7 +80,7 @@
   "label": "COST SHARING (OTPS) – Facilitiesand administrative costs committed by SUNY."
 },
 {
-  "value": "",
+  "value": "m",
   "label": "This expenditure type is excluded from the Long Form F & A rate development process."
 },
 {
@@ -88,7 +88,7 @@
   "label": "COST SHARING (OTPS) – A noncashcontribution for which a cash value can be determined (e.g., volunteerservices, third party salary (not RFor SUNY Salary) and equipment from a third party, supplies, and realproperty)."
 },
 {
-  "value": "",
+  "value": "b",
   "label": "This expenditure type is excluded from the Long Form F & A rate development process."
 },
 {
@@ -100,7 +100,7 @@
   "label": "COST SHARING (OTPS) – SUNY's costfor tuition and fees related to educational assistance."
 },
 {
-  "value": "",
+  "value": "c",
   "label": "This expenditure type is excludedfrom the Long Form F & A rate development process."
 },
 {
@@ -112,7 +112,7 @@
   "label": "COST SHARING (OTPS) – Equipmentcosts committed to by SUNY."
 },
 {
-  "value": "",
+  "value": "d",
   "label": "This expenditure type is excludedfrom the Long Form F & A rate development process."
 },
 {
@@ -124,11 +124,11 @@
   "label": "COST SHARING (OTPS) – Facilitiesand administrative costs committed by SUNY."
 },
 {
-  "value": "",
+  "value": "e",
   "label": "Charges to this expenditure typewill override the nightly indirect cost calculation."
 },
 {
-  "value": "",
+  "value": "f",
   "label": "This expenditure type is excludedfrom the Long Form F & A rate development process."
 },
 {
@@ -136,7 +136,7 @@
   "label": "COST SHARING (OTPS) – Cost sharingof subawards above $25,000."
 },
 {
-  "value": "",
+  "value": "g",
   "label": "This expenditure type is excludedfrom the Long Form F & A rate development process."
 },
 {
@@ -308,7 +308,7 @@
   "label": "FACILITIES AND ADMINISTRATIONCOSTS – Manual charges for facilities and administration costs (i.e.,indirect costs)."
 },
 {
-  "value": "",
+  "value": "h",
   "label": "Charges to this expenditure typeare not included in the nightly indirect cost base calculation."
 },
 {
@@ -316,7 +316,7 @@
   "label": "FACILITIES AND ADMINISTRATION – Manual F& A override to be used only for a Lead Location Awards with Subaward Activity at another SUNY Location."
 },
 {
-  "value": "",
+  "value": "i",
   "label": "Charges to this expenditure typeare not included in the nightly indirect cost base calculation."
 },
 {
@@ -568,7 +568,7 @@
   "label": "GENERAL SERVICES – Investment feesexpenses."
 },
 {
-  "value": "",
+  "value": "j",
   "label": "(Used only by Central Office.)"
 },
 {
@@ -936,7 +936,7 @@
   "label": "RECHARGES, CAMPUS SERVICES – Usedto recharge an outside third party for using facilities (building, equipment,etc.)."
 },
 {
-  "value": "",
+  "value": "k",
   "label": "Note: This expenditure type isexcluded from the MTDC base."
 },
 {
